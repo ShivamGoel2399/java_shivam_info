@@ -5,8 +5,8 @@ public class While_loop {
 		int a=0;
 		while(a<=3) {
 		
-		System.out.println(a);
-		a++;
+			System.out.println(a);
+			a++;
 		}
 	}
 
